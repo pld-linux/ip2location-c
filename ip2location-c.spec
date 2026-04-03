@@ -2,7 +2,7 @@ Summary:	IP2Location C library
 Summary(pl.UTF-8):	Biblioteka C IP2Location
 Name:		ip2location-c
 Version:	6.0.3
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries
 #Source0Download: http://www.ip2location.com/developers/c
